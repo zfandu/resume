@@ -1108,3 +1108,10 @@
 		right: 0;
 			}
 }
+.mb-5 {
+	    margin-bottom: 3rem!important;
+}
+
+.text-primary {
+	    color: #4acaa8!important;
+}
